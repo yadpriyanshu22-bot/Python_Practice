@@ -31,12 +31,6 @@ python-practice/
 
 *Note: The structure above is a suggested organization. The actual folders may vary as the repository grows.*
 
-## 🛠️ Technologies Used
-
-- **Language:** Python 3
-- **Editor:** VS Code
-- **Version Control:** Git and GitHub
-
 ## 🎯 Goals
 
 - Improve Python fundamentals.
