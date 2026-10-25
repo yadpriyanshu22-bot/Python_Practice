@@ -43,12 +43,3 @@ python-practice/
 
 I regularly practice Python questions and add new solutions to this repository as I learn new concepts.
 
-## 👨‍💻 About Me
-
-I'm a learner working on improving my programming skills through consistent practice and hands-on coding.
-
----
-
-⭐ If you find this repository useful, feel free to explore the code and follow my learning journey!
-
-**Happy Coding! 🐍**
