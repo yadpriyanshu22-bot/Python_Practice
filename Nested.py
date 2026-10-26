@@ -39,5 +39,19 @@ n=int(input())                              #print a pyramid
 for i in range(1,n+1):
    print(" "*(n-i) + "*"*(2*i-1))
 
+n = int(input())                            #print a diamond
+for i in range(1, n + 1):
+    print(" " * (n - i) + "* " * i)
+for i in range(n - 1, 0, -1):
+    print(" " * (n - i) + "* " * i)
+
+
+n = int(input())                            #print numbers in a triangle
+num = 1                                     #1
+for i in range(1, n + 1):                   #2 3
+    for j in range(i):                      #4 5 6
+        print(num, end=" ")                 #7 8 9 10
+        num += 1
+    print()
 
 
